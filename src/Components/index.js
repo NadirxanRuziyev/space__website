@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar/navbar'
+export { default as Hero } from './Hero/hero'
+export { default as HeroCard } from './HeroCards/HeroCards'
+export { default as Banner1 } from './Banners/Banner1'
+export { default as Banner2 } from './Banners/Banner2'
+export { default as Modal } from './Modal/Modal'
+export { default as Footer } from './Footer/Footer'
